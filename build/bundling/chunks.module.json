@@ -1,0 +1,75 @@
+{
+  "errors": [],
+  "warnings": [],
+  "hash": "fd2a8d246fe5ada9f7b2",
+  "publicPath": "",
+  "outputPath": "C:\\Users\\Manu\\OneDrive\\Escritorio\\Proyecto\\ING\\build\\static",
+  "assetsByChunkName": {
+    "ing": "ing.module.js",
+    "list": "list.module.js"
+  },
+  "assets": [
+    {
+      "name": "ing.module.js",
+      "size": 6898839,
+      "chunks": [
+        "ing"
+      ],
+      "chunkNames": [
+        "ing"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "list.module.js",
+      "size": 47493,
+      "chunks": [
+        "list"
+      ],
+      "chunkNames": [
+        "list"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "namedChunkGroups": {
+    "ing": {
+      "chunks": [
+        "ing"
+      ],
+      "assets": [
+        "ing.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "list": {
+      "chunks": [
+        "list"
+      ],
+      "assets": [
+        "list.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "generator": "loadable-components",
+  "chunks": [
+    {
+      "id": "ing",
+      "files": [
+        "ing.module.js"
+      ]
+    },
+    {
+      "id": "list",
+      "files": [
+        "list.module.js"
+      ]
+    }
+  ]
+}
